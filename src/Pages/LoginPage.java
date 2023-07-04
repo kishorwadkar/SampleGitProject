@@ -10,6 +10,7 @@ public class LoginPage
 	}
 	public void enterPassword()
 	{
+		System.out.println("emplicit wait added");
 		System.out.println("enter the password");
 	}
 
